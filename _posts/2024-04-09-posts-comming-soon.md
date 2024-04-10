@@ -5,5 +5,4 @@ categories: [Under Construction]
 tags: [Under Construction]
 ---
 
-# Posts Coming Soon
 Hello and welcome to my blog! Over the next coming weeks, I plan to post my first real blog post. Until then, this site will be considered under construction with a lot of other changes to come.

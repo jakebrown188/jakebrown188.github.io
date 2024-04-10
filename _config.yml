@@ -9,14 +9,14 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Jake's Tech Journey # the main title
 
-tagline: Come learn with me various technical topics # it will display as the sub-title
+tagline: Follow my journey through tech # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   My personal blog to track the technical topics I am diving into
@@ -38,11 +38,11 @@ social:
   email: jakebrown188@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://www.linkedin.com/in/jake-brown-407571207
     - https://twitter.com/jakebrown188 # change to your twitter homepage
     - https://github.com/jakebrown188 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
 

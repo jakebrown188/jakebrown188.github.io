@@ -4,7 +4,6 @@ This blog is currently hosted at https://www.jakestechjourney.com
 
 ## Description
 
-
 This is my personal blog to document and share various topics that I am exploring and learning about. I've realized that the best way to learn something is to teach it. My hope for this blog is that it provides me with the benefit to learn through teaching and provides you with the benefit of learning the topics I am exploring. 
 
 Some of my current blog ideas are:
